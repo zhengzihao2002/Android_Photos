@@ -24,8 +24,6 @@ This was the fourth project for CS213 Software Methodology at Rutgers University
 For details see contributions.txt
 
 ## Gallery
-Due to the fact that only JavaFX is allowed, GUI may look ugly, but it has rich features.
-
 
 Home Screen
 ![login](readme/Home.png)
