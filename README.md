@@ -26,15 +26,15 @@ For details see contributions.txt
 ## Gallery
 Home Screen </br>
 ![login](readme/Home.png)
-Album Details</br>
+Album Details </br>
 ![login](eadme/Album.png)
-Display Photo</br>
+Display Photo </br>
 ![login](readme/Display.png)
-Modify Tags</br>
+Modify Tags </br>
 ![login](readme/tags.png)
-Search</br>
+Search </br>
 ![login](readme/search.png)
-Result from search</br>
+Result from search </br>
 ![login](readme/searchResults.png)
 
 
