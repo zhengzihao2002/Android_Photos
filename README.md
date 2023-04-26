@@ -41,7 +41,7 @@ Result from search </br>
 ## For Rutgers Students
 Please follow both Rutgers University's [Principles of Academic Integrity](http://academicintegrity.rutgers.edu/) and the Rutgers Department of Computer Science's [Academic Integrity Policy](https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy)
 
-Only use this as an guide to see what is expected in the project. Code stealing is strictly prohibited as this site is strictly monitored and I have direct communication with the Rutgers CS department. 
+Only use this as an guide to see what is expected in the project. Code stealing is strictly prohibited.
 
 
 ## Grade
