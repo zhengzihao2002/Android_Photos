@@ -14,7 +14,7 @@ This was the fourth project for CS213 Software Methodology at Rutgers University
 
 ## Local Setup
 1. Clone the repository locally
-2. See the README for android studio
+2. See the README for android studio in the README folder
 
 ## Overall Contributions 
 
