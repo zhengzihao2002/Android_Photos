@@ -24,8 +24,7 @@ This was the fourth project for CS213 Software Methodology at Rutgers University
 For details see contributions.txt
 
 ## Gallery
-
-Home Screen
+Home Screen </br>
 ![login](readme/Home.png)
 Album Details
 ![login](eadme/Album.png)
