@@ -25,17 +25,17 @@ For details see contributions.txt
 
 ## Gallery
 Home Screen </br>
-![login](readme/Home.png)
+![login](readme/Home.png)</br>
 Album Details </br>
-![login](readme/Album.png)
+![login](readme/Album.png)</br>
 Display Photo </br>
-![login](readme/Display.png)
+![login](readme/Display.png)</br>
 Modify Tags </br>
-![login](readme/tags.png)
+![login](readme/tags.png)</br>
 Search </br>
-![login](readme/search.png)
+![login](readme/search.png)</br>
 Result from search </br>
-![login](readme/searchResults.png)
+![login](readme/searchResults.png)</br>
 
 
 ## For Rutgers Students
