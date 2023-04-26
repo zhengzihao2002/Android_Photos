@@ -27,7 +27,7 @@ For details see contributions.txt
 Home Screen </br>
 ![login](readme/Home.png)
 Album Details </br>
-![login](eadme/Album.png)
+![login](readme/Album.png)
 Display Photo </br>
 ![login](readme/Display.png)
 Modify Tags </br>
