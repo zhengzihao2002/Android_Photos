@@ -1,4 +1,4 @@
-Yiming Huang: Tested the application and made sure it ran normally on his laptop. Contributed two obsolete XML files (eventually not considered in the project)
+Yiming Huang: Tested the application and made sure it ran normally on his laptop. If it didn't, such as encountered a bug, Zihao would be notified to fix the bug. Contributed two obsolete XML files (eventually not considered in the project)
 
 Zihao Zheng: Did everything else, such as writing the code, tested for bugs, removed all bugs, taught Yiming how to start writing in android studio, etc. 
 
@@ -6,4 +6,5 @@ Zihao Zheng: Did everything else, such as writing the code, tested for bugs, rem
 
 
 The overall contribution is calculated by:
-- Code : 100%
+- Code : 99%
+- Bug Testing : 1%
