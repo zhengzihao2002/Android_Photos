@@ -43,6 +43,3 @@ Please follow both Rutgers University's [Principles of Academic Integrity](http:
 
 Only use this as an guide to see what is expected in the project. Code stealing is strictly prohibited. The author's name is hidden in the code in a form that is not visible to human eye but visible to plagiarism checkers. Don't risk it.
 
-
-## Grade
-Not graded yet
