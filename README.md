@@ -19,7 +19,7 @@ This was the fourth project for CS213 Software Methodology at Rutgers University
 ## Overall Contributions 
 
 - [Zihao Zheng (Group Lead) ](https://github.com/zhengzihao2002) - 99.5%
-- Yiming Huang 
+- Other group members - 0.05%
 
 For details see contributions.txt
 
